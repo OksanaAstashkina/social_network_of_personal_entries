@@ -52,7 +52,7 @@ __Активируем виртуальное окружение__:
 source venv/Scripts/activate (для Linux и MacOS: source venv/bin/activate)
 ```
 
-__Установаем зависимости__:
+__Устанавливаем зависимости__:
 ```
 pip install -r requirements.txt
 ```
