@@ -62,7 +62,7 @@ __В папке с файлом manage.py выполните миграции__:
 python manage.py migrate
 ```
 
-__Запустите проект dev-режиме (в режиме сервера Django)__:
+__Запустите проект в dev-режиме (в режиме сервера Django)__:
 ```
 python manage.py runserver (для Linux и MacOS: python3 manage.py runserver)
 ```
