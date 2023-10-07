@@ -26,7 +26,6 @@
 * Bootstrap
 * HTML
 * CSS
-* JS
 * Pytest
 * Unittest
 
