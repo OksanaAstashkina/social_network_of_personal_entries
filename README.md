@@ -34,12 +34,12 @@
 
 __Клонируем себе на компьютер репозиторий__: 
 ```
-git clone git@github.com:OksanaAstashkina/hw05_final.git
+git clone git@github.com:OksanaAstashkina/social_network_of_personal_entries.git
 ```
 
 __Переходим в директорию с клонированным репозиторием__:
 ```
-cd hw05_final-master
+cd social_network_of_personal_entries
 ```
 
 __Разворачиваем в репозитории виртуальное окружение__:
@@ -62,7 +62,7 @@ __В папке с файлом manage.py выполните миграции__:
 python manage.py migrate
 ```
 
-__Запустите проект в dev-режиме (в режиме сервера Django)__:
+__Запустите проект в dev-режиме__:
 ```
 python manage.py runserver (для Linux и MacOS: python3 manage.py runserver)
 ```
